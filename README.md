@@ -1,4 +1,4 @@
-# Loapu's Documentation
+# Welcome!
 
 ## Currently available repositories:
 * [VestriaDice](VestriaDice)
